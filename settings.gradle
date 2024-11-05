@@ -1,0 +1,2 @@
+rootProject.name='Pythontest'
+include ':app'
