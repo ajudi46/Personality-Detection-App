@@ -1,0 +1,7 @@
+*.txt filter=lfs diff=lfs merge=lfs -text
+mbti_1.csv filter=lfs diff=lfs merge=lfs -text
+mbti_unclean.csv filter=lfs diff=lfs merge=lfs -text
+glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
+mbti_1.csv filter=lfs diff=lfs merge=lfs -text
+mbti_unclean.csv filter=lfs diff=lfs merge=lfs -text
+glove.6B.50d.txt filter=lfs diff=lfs merge=lfs -text
